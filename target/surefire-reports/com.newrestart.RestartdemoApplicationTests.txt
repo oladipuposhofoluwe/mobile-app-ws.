@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.newrestart.RestartdemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 29.447 s - in com.newrestart.RestartdemoApplicationTests
