@@ -10,7 +10,7 @@ import org.springframework.transaction.support.ResourceHolderSupport;
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
-public class ReturnedAddressDetails{
+public class ReturnedAddressDetails extends RepresentationModel<ReturnedAddressDetails>{
     private String addressId;
     private String city;
     private String streetName;
